@@ -1,4 +1,3 @@
-USE avaliacaocontinua;
 --Questão 1: criação schema avaliacaocontinua
 CREATE SCHEMA avaliacaocontinua;
 
